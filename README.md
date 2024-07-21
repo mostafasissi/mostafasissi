@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NestJs**
 
-- 💬 Ask me about **Angular , Spring boot**
+- 💬 Ask me about **Angular** , **React , Java**, Spring boot**
 
 - 📫 How to reach me **mostafasissi@gmail.com**
 
